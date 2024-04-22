@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Accelerometer 2</string>
+    <string name="accelerometer_values">Accelerometer values</string>
+    <string name="show_history">Show History</string>
+</resources>
